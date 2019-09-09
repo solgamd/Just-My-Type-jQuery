@@ -1,0 +1,25 @@
+{
+  "name": "justmytype",
+  "version": "1.0.0",
+  "description": "Covalence",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solgamd/Just-My-Type-jQuery-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/solgamd/Just-My-Type-jQuery-/issues"
+  },
+  "homepage": "https://github.com/solgamd/Just-My-Type-jQuery-#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jquery": "^3.4.1",
+    "npm": "^6.11.3"
+  }
+}

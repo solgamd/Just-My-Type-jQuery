@@ -12,8 +12,8 @@
 #yellow-block {
   position: absolute;
   margin-top: 10px;
-  width: 15px;
-  height: 15px;
+  width: 12px;
+  height: 15px; 
   background-color: yellow;
 }
 
@@ -23,7 +23,7 @@
 
 #target-letter {
   font-size: 38px;  
-  display: inline;
+  display: block;
 }
 
 .keys-row {
