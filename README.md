@@ -1,6 +1,11 @@
 # Just My Type
 Covalence
 
+## Description
+A typing game built using jQuery, HTML, and CSS. This was a project completed during my time as a Covalence student. The original project's instructions are below.
+
+--
+
 ## Info
 * You are going to build a typing game
 * This lab uses an older version of the Bootstrap UI Framework. It is already imported for you.
