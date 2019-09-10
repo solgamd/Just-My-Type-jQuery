@@ -4,6 +4,8 @@ Covalence
 ## Description
 A typing game built using jQuery, HTML, and CSS. This was a project completed during my time as a Covalence student. The original project's instructions are below.
 
+[View the game](https://protected-reef-88850.herokuapp.com) and play!
+
 --
 
 ## Info
