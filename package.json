@@ -19,7 +19,7 @@
   "homepage": "https://github.com/solgamd/Just-My-Type-jQuery-#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "npm": "^6.13.4"
   }
 }
